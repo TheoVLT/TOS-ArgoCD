@@ -102,5 +102,7 @@ argocd  login  IPDUSERVICE:80
 argocd  repo  add  LIEN DU REPO  --username  username  --password  password
 ```
 [Récupération des infos sur DevOps](https://drive.google.com/file/d/1cMbW5Csqaw1JUx7ZwvMPHbCu5J7Ko-gz/view?usp=drive_link)
+- Une fois le repo ajouté, on peut voir sur l'interface graphique notre repo bien connecté :
+[Repo Azure DevOps synchronisé sur ArgoCD](https://drive.google.com/file/d/14YzcJB1_tD5hWddTAX-IUOx6WJMXJSTy/view?usp=drive_link)
 
 
