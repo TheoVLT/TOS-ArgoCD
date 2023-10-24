@@ -65,7 +65,7 @@ kubectl -n argocd get pod
 ```
 
 ```shell
-NAME  							READY  STATUS  		RESTARTS  		AGE
+NAME  						READY  STATUS  		RESTARTS  		AGE
 argocd-application-controller-0  1/1  Running  0  103m
 argocd-applicationset-controller-9d98764f8-lf5wz  1/1  Running  0  103m
 argocd-dex-server-555c664ccd-8hqb2  1/1  Running  0  103m
