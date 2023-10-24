@@ -91,8 +91,7 @@ kubectl  -n  argocd  get  secret  argocd-initial-admin-secret  -o  jsonpath="{.d
 ```
 
 ## Ajouter le repo Azure DevOps
-![image](https://github.com/TheoVLT/TOS-ArgoCD/assets/148872577/3a3f5d8a-cb6f-4922-8d7c-7e4dcf405175)
-
+![image](https://github.com/TheoVLT/TOS-ArgoCD/assets/148872577/fe75a98d-81ce-44ce-9e5d-7643f75ae303)
 - Pour ajouter le repo on récupère l'ip du service :
 ```shell
 kubectl -n longhorn-system get svc
