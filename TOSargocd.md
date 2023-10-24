@@ -7,6 +7,8 @@ Aujourd'hui, nous plongeons dans l'univers fascinant des déploiements continus 
 Dans cette présentation, nous allons découvrir ce que fait ArgoCD, pourquoi il est devenu un acteur majeur dans le domaine de la gestion des déploiements dans Kubernetes, et comment il peut simplifier la vie des équipes de développement et des opérations. Nous allons également voir comment faire le lien avec nos repos DevOps.
 
 Alors, préparez-vous à plonger dans le monde passionnant d'ArgoCD et à comprendre comment cette puissante solution peut révolutionner votre approche des déploiements continus. Sans plus attendre, entrons dans le vif du sujet et découvrons comment ArgoCD peut être votre allié dans la quête de déploiements plus efficaces et plus fiables.
+![image](https://github.com/TheoVLT/TOS-ArgoCD/assets/148872577/d439fb3b-c256-481e-a562-1899c1723255)
+
 
 # Pourquoi ArgoCD ?
 
