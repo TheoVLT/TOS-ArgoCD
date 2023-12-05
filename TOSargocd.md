@@ -47,7 +47,7 @@ helm repo update
 helm  repo  add  argo  https://argoproj.github.io/argo-helm
 mkdir  argocd
 cd  argocd
-helm  show  values  argo/argo-cd > values.yml```
+helm  show  values  argo/argo-cd > values.yml
 ```
 5. On change les valeurs dans le fichier :
 ```shell
@@ -94,7 +94,7 @@ kubectl  -n  argocd  get  secret  argocd-initial-admin-secret  -o  jsonpath="{.d
 ![image](https://github.com/TheoVLT/TOS-ArgoCD/assets/148872577/fe75a98d-81ce-44ce-9e5d-7643f75ae303)
 - Pour ajouter le repo on récupère l'ip du service :
 ```shell
-kubectl -n longhorn-system get svc
+kubectl -n argocd get svc
 ```
 - On peut alors ajouter notre repo :
 ```shell
