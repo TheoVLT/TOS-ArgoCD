@@ -67,14 +67,14 @@ kubectl -n argocd get pod
 ```
 
 ```shell
-NAME  						READY  STATUS  		RESTARTS  		AGE
-argocd-application-controller-0  1/1  Running  0  103m
-argocd-applicationset-controller-9d98764f8-lf5wz  1/1  Running  0  103m
-argocd-dex-server-555c664ccd-8hqb2  1/1  Running  0  103m
-argocd-notifications-controller-b9b9454d4-5hznz  1/1  Running  0  103m
-argocd-redis-86588c9cc4-crpcw  1/1  Running  0  103m
-argocd-repo-server-7547957d95-5twtd  1/1  Running  0  103m
-argocd-server-75cc888f77-8tjpk  1/1  Running  0  103m
+NAME  						                                READY          STATUS  		RESTARTS  		AGE
+argocd-application-controller-0                    1/1           Running        0         103m
+argocd-applicationset-controller-9d98764f8-lf5wz   1/1           Running        0         103m
+argocd-dex-server-555c664ccd-8hqb2                 1/1           Running        0         103m
+argocd-notifications-controller-b9b9454d4-5hznz    1/1           Running        0         103m
+argocd-redis-86588c9cc4-crpcw                      1/1           Running        0         103m
+argocd-repo-server-7547957d95-5twtd                1/1           Running        0         103m
+argocd-server-75cc888f77-8tjpk                     1/1           Running        0         103m
 ```
 
 ## Installation de l'outil CLI ArgoCD
